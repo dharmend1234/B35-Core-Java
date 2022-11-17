@@ -14,6 +14,7 @@ public class StringDemo {
 		
 		System.out.println("Enter the String:");
 		String str=s.nextLine();
+		System.out.println("Enter the String 2:");
 		String str1=s.next();
 		
 		System.out.println("The output is: ");
