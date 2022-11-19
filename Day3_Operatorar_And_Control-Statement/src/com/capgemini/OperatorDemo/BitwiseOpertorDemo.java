@@ -12,6 +12,8 @@ public class BitwiseOpertorDemo {
 			System.out.println(a&b);
 			System.out.println(a|b);
 			System.out.println(a^b);
+			System.out.println(a>>b);
+			System.out.println(a<<b);
 			
 			
 	}
