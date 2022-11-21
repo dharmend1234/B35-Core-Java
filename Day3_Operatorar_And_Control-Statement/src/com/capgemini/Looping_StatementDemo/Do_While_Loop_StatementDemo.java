@@ -11,7 +11,7 @@ public class Do_While_Loop_StatementDemo {
 		do 
 		{
 			System.out.println(a);
-			++a;
+			a++;
 		}
 		while(a<=10);
 		
