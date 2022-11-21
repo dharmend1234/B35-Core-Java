@@ -12,7 +12,7 @@ public class Continue_StatementDemo {
 		{
 			if(i==6)
 			{
-				continue;
+				continue;                 //it skip 6 and continue
 			}
 			System.out.println(a*i);
 		}
