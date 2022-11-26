@@ -1,4 +1,4 @@
-package com.capgemini.inheritanceDemo;
+package com.capgemini.InheritanceDemo;
 
 public class AndroidVersion {
 	protected String name="Android version name";

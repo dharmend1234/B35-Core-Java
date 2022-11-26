@@ -1,4 +1,4 @@
-package com.capgemini.inheritanceDemo;
+package com.capgemini.InheritanceDemo;
 // Driver Class or Main Class
 //Demo on Single Inheritance
 import java.util.Scanner;

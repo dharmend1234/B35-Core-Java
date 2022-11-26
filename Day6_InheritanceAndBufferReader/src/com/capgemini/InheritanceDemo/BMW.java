@@ -1,4 +1,4 @@
-package com.capgemini.inheritanceDemo;
+package com.capgemini.InheritanceDemo;
 //child class of vehicle class
 public class BMW extends Vehicle{
 	private String name1;

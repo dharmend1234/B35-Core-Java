@@ -1,4 +1,4 @@
-package com.capgemini.inheritanceDemo;
+package com.capgemini.InheritanceDemo;
 
 public class HierachicalInheritanceDemo {
 	public static void main(String args[]) {

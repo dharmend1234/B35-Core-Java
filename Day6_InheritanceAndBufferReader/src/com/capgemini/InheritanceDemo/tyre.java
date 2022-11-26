@@ -1,4 +1,4 @@
-package com.capgemini.inheritanceDemo;
+package com.capgemini.InheritanceDemo;
 //child class of BMW class
 public class tyre extends BMW {
 	private String tyre_name;

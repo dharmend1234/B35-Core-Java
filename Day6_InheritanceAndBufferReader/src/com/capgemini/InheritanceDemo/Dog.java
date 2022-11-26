@@ -1,4 +1,4 @@
-package com.capgemini.inheritanceDemo;
+package com.capgemini.InheritanceDemo;
 //child class or subclass
 //Demo on Single Inheritance
 public class Dog extends Animal{

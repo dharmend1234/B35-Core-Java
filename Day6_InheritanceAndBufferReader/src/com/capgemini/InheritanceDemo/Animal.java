@@ -1,4 +1,4 @@
-package com.capgemini.inheritanceDemo;
+package com.capgemini.InheritanceDemo;
 //Parent Class or Superclass
 //Demo on Single Inheritance
 public class Animal {
