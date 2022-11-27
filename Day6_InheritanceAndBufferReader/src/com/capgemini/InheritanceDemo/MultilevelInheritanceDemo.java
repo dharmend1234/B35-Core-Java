@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class MultilevelInheritanceDemo {
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner s=new Scanner(System.in);
 		tyre t=new tyre();
 		System.out.println("Enter Vehicle Name :");
