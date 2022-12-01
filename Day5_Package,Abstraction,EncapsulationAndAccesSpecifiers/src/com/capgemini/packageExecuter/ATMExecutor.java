@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 //importing the class of another package
 //import org.tnsindia.packagesdemo.ATM;
-import org.tnsindia.packagesdemo.*;
 
 import com.capgemini.packageDemo.ATM;
 
