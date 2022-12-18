@@ -1,4 +1,4 @@
-package com.capgemini.junitdemo;
+package org.tnsindia.junitdemo;
 
 import static org.junit.jupiter.api.Assertions.*;
 
